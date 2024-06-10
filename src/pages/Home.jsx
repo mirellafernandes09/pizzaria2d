@@ -6,6 +6,7 @@ const Home = () => {
     return (
         <Link to="/inicio">
             <img src={logo} alt="logo" width="100" />
+            <p>Imagem do Logo</p>
         </Link>
     )
 }
